@@ -3,9 +3,9 @@
     {
       "viewType" : 2,
       "taskName" : "Temperature",
-      "numValue" : "",
-      "checked" : false,
-      "timeStampValue" : ""
+      "numValue" : "72",
+      "checked" : true,
+      "timeStampValue" : "2023-03-10\n10:02 AM\ntest"
     },
     {
       "viewType" : 3,
@@ -25,8 +25,8 @@
       "viewType" : 1,
       "taskName" : "Clean IVC Filter",
       "numValue" : "",
-      "checked" : true,
-      "timeStampValue" : "2023-03-10\n10:02 AM\ntest"
+      "checked" : false,
+      "timeStampValue" : ""
     },
     {
       "viewType" : 1,
