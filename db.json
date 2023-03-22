@@ -3,9 +3,9 @@
     {
       "viewType" : 2,
       "taskName" : "Temperature",
-      "numValue" : "72",
-      "checked" : true,
-      "timeStampValue" : "2023-03-21\n11:04 AM\ntest"
+      "numValue" : "",
+      "checked" : false,
+      "timeStampValue" : ""
     },
     {
       "viewType" : 3,
