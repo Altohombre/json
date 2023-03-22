@@ -3,14 +3,14 @@
     {
       "viewType" : 2,
       "taskName" : "Temperature",
-      "numValue" : "72",
-      "checked" : true,
-      "timeStampValue" : "2023-03-10\n10:02 AM\ntest"
+      "numValue" : "",
+      "checked" : false,
+      "timeStampValue" : ""
     },
     {
       "viewType" : 3,
       "taskName" : "Humidity",
-      "numValue" : "12",
+      "numValue" : "99",
       "checked" : true,
       "timeStampValue" : "2023-03-18\n08:02 AM\nmlkeller"
     },
