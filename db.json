@@ -3,9 +3,9 @@
     {
       "viewType" : 2,
       "taskName" : "Temperature",
-      "numValue" : "",
-      "checked" : false,
-      "timeStampValue" : ""
+      "numValue" : "72",
+      "checked" : true,
+      "timeStampValue" : "2023-03-21\n11:04 AM\ntest"
     },
     {
       "viewType" : 3,
@@ -32,8 +32,8 @@
       "viewType" : 1,
       "taskName" : "Empty Trash",
       "numValue" : "",
-      "checked" : true,
-      "timeStampValue" : "2023-03-20\n03:02 AM\ntest"
+      "checked" : false,
+      "timeStampValue" : ""
     },
     {
       "viewType" : 1,
