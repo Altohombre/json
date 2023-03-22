@@ -10,9 +10,9 @@
     {
       "viewType" : 3,
       "taskName" : "Humidity",
-      "numValue" : "",
-      "checked" : false,
-      "timeStampValue" : ""
+      "numValue" : "12",
+      "checked" : true,
+      "timeStampValue" : "2023-03-18\n08:02 AM\nmlkeller"
     },
     {
       "viewType" : 1,
