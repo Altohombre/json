@@ -1,8 +1,16 @@
 {
-  "tasks": [
+  "tasks": 
+  [
     {
-      "viewType" : 1,
-      "taskName" : "Clean IVC Filter",
+      "viewType" : 2,
+      "taskName" : "Temperature",
+      "numValue" : "",
+      "checked" : false,
+      "timeStampValue" : ""
+    },
+    {
+      "viewType" : 3,
+      "taskName" : "Humidity",
       "numValue" : "",
       "checked" : false,
       "timeStampValue" : ""
@@ -21,33 +29,26 @@
       "checked" : false,
       "timeStampValue" : ""
     },
-    {
-      "viewType" : 2,
-      "taskName" : "Temperature",
-      "numValue" : "72",
-      "checked" : true,
-      "timeStampValue" : "2023-03-19\n03:27 AM\ntest"
-    },
-     {
-      "viewType" : 3,
-      "taskName" : "Humidity",
-      "numValue" : "22",
-      "checked" : true,
-      "timeStampValue" : "2023-03-22\n007:44 AM\nmmt163"
-    },
-    {
+        {
       "viewType" : 1,
       "taskName" : "Change Insert",
       "numValue" : "",
-      "checked" : true,
-      "timeStampValue" : "2023-03-19\n03:27 AM\nmlkeller"
+      "checked" : false,
+      "timeStampValue" : ""
     },
     {
       "viewType" : 1,
       "taskName" : "Replace Food",
       "numValue" : "",
-      "checked" : true,
-      "timeStampValue" : "2023-03-22\n007:44 AM\nazander1"
+      "checked" : false,
+      "timeStampValue" : ""
+    },
+    {
+      "viewType" : 1,
+      "taskName" : "Clean IVC Filter",
+      "numValue" : "",
+      "checked" : false,
+      "timeStampValue" : ""
     }
   ]
 }
