@@ -2,20 +2,6 @@
   "tasks": 
   [
     {
-      "viewType" : 2,
-      "taskName" : "Temperature",
-      "numValue" : "",
-      "checked" : false,
-      "timeStampValue" : ""
-    },
-    {
-      "viewType" : 3,
-      "taskName" : "Humidity",
-      "numValue" : "",
-      "checked" : false,
-      "timeStampValue" : ""
-    },
-    {
       "viewType" : 1,
       "taskName" : "Check Water",
       "numValue" : "",
@@ -46,6 +32,34 @@
     {
       "viewType" : 1,
       "taskName" : "Clean IVC Filter",
+      "numValue" : "",
+      "checked" : false,
+      "timeStampValue" : ""
+    },
+        {
+      "viewType" : 1,
+      "taskName" : "Check Door Jam",
+      "numValue" : "",
+      "checked" : false,
+      "timeStampValue" : ""
+    },
+        {
+      "viewType" : 1,
+      "taskName" : "Sweep Room",
+      "numValue" : "",
+      "checked" : false,
+      "timeStampValue" : ""
+    },
+    {
+      "viewType" : 1,
+      "taskName" : "Mop Room",
+      "numValue" : "",
+      "checked" : false,
+      "timeStampValue" : ""
+    },
+    {
+      "viewType" : 1,
+      "taskName" : "Check lights",
       "numValue" : "",
       "checked" : false,
       "timeStampValue" : ""
