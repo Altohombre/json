@@ -40,29 +40,29 @@
       "viewType" : 1,
       "taskName" : "Check Door Jam",
       "numValue" : "",
-      "checked" : false,
-      "timeStampValue" : ""
+      "checked" : true,
+      "timeStampValue" : "2023-03-10\n10:02 AM\ntest"
     },
         {
       "viewType" : 1,
       "taskName" : "Sweep Room",
       "numValue" : "",
-      "checked" : false,
-      "timeStampValue" : ""
+      "checked" : true,
+      "timeStampValue" : "2023-03-10\n10:02 AM\nmlkeller"
     },
     {
       "viewType" : 1,
       "taskName" : "Mop Room",
       "numValue" : "",
-      "checked" : false,
-      "timeStampValue" : ""
+      "checked" : true,
+      "timeStampValue" : "2023-03-10\n10:02 AM\nodiamantis"
     },
     {
       "viewType" : 1,
       "taskName" : "Check lights",
       "numValue" : "",
-      "checked" : false,
-      "timeStampValue" : ""
+      "checked" : true,
+      "timeStampValue" : "2023-03-10\n10:02 AM\nazander"
     }
   ]
 }
