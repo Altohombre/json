@@ -9,6 +9,13 @@
       "timeStampValue" : ""
     },
     {
+      "viewType" : 3,
+      "taskName" : "Humidity",
+      "numValue" : "",
+      "checked" : false,
+      "timeStampValue" : ""
+    },
+    {
       "viewType" : 1,
       "taskName" : "Check Water",
       "numValue" : "",
@@ -62,7 +69,7 @@
       "taskName" : "Mop Room",
       "numValue" : "",
       "checked" : true,
-      "timeStampValue" : "2023-03-10\n10:02 AM\nodiamantis"
+      "timeStampValue" : "2023-03-10\n10:02 AM\nmmt163"
     },
     {
       "viewType" : 1,
