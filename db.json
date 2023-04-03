@@ -3,7 +3,7 @@
   [
     { "taskId" : 1,
       "viewType" : 2,
-      "taskName" : "Temp",
+      "taskName" : "Temperature",
       "numValue" : "",
       "checked" : false,
       "timeStampValue" : ""
