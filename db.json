@@ -1,7 +1,7 @@
 {
   "tasks": 
   [
-       {
+    { "taskId" : 1,
       "viewType" : 2,
       "taskName" : "Temperature",
       "numValue" : "",
@@ -9,6 +9,7 @@
       "timeStampValue" : ""
     },
     {
+      "taskId" : 2,
       "viewType" : 3,
       "taskName" : "Humidity",
       "numValue" : "",
@@ -16,6 +17,7 @@
       "timeStampValue" : ""
     },
     {
+      "taskId" : 3,
       "viewType" : 1,
       "taskName" : "Check Water",
       "numValue" : "",
@@ -23,6 +25,7 @@
       "timeStampValue" : ""
     },
     {
+      "taskId" : 4,
       "viewType" : 1,
       "taskName" : "Empty Trash",
       "numValue" : "",
@@ -30,6 +33,7 @@
       "timeStampValue" : ""
     },
         {
+          "taskId" : 5,
       "viewType" : 1,
       "taskName" : "Change Insert",
       "numValue" : "",
@@ -37,6 +41,7 @@
       "timeStampValue" : ""
     },
     {
+      "taskId" : 6,
       "viewType" : 1,
       "taskName" : "Replace Food",
       "numValue" : "",
@@ -44,6 +49,7 @@
       "timeStampValue" : ""
     },
     {
+      "taskId" : 7,
       "viewType" : 1,
       "taskName" : "Clean IVC Filter",
       "numValue" : "",
@@ -51,6 +57,7 @@
       "timeStampValue" : ""
     },
         {
+          "taskId" : 8,
       "viewType" : 1,
       "taskName" : "Check Door Jam",
       "numValue" : "",
@@ -58,6 +65,7 @@
       "timeStampValue" : "2023-03-10\n10:02 AM\ntest"
     },
         {
+          "taskId" : 9,
       "viewType" : 1,
       "taskName" : "Sweep Room",
       "numValue" : "",
@@ -65,6 +73,7 @@
       "timeStampValue" : "2023-03-10\n10:02 AM\nmlkeller"
     },
     {
+      "taskId" : 10,
       "viewType" : 1,
       "taskName" : "Mop Room",
       "numValue" : "",
@@ -72,6 +81,7 @@
       "timeStampValue" : "2023-03-10\n10:02 AM\nmmt163"
     },
     {
+      "taskId" : 11,
       "viewType" : 1,
       "taskName" : "Check lights",
       "numValue" : "",
