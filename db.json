@@ -3,7 +3,7 @@
   [
     { "calendarId" : 1,
       "calendarName" : "Daily Tasks",
-      "calendarImage" : "@drawable/calendar_daily"
+      
     },
      { "calendarId" : 2,
       "calendarName" : "Weekly Tasks",
