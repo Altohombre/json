@@ -10,7 +10,7 @@
       "calendarImage" : "R.drawable.calendar_weekly"
     },
      { "calendarId" : 3,
-      "calendarName" : "Twice per Month Tasks",
+      "calendarName" : "Twice Per Month",
       "calendarImage" : "R.drawable.calendar_bimonthly"
     },
      { "calendarId" : 4,
