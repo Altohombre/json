@@ -2,7 +2,7 @@
   "menuItems": 
   [
     { "calendarId" : 1,
-      "calendarName" : "Daily Tasks",
+      "calendarName" : "Weekly Tasks",
       "calendarImage" : "R.drawable.calendar_daily"
     },
      { "calendarId" : 2,
