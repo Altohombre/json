@@ -18,8 +18,6 @@
       "calendarImage" : "R.drawable.calendar_monthly"
     }
   ]
-}
-{
 	  "tasks": 
 	  [
 	    { "taskId" : 1,
