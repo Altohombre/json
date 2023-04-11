@@ -1,27 +1,96 @@
 {
-  "menuItems": [
-    {
-      "calendarId": 1,
-      "calendarName": "Daily Tasks",
-      "calendarImage": "R.drawable.calendar_daily"
-    },
-    {
-      "calendarId": 2,
-      "calendarName": "Weekly Tasks",
-      "calendarImage": "R.drawable.calendar_weekly"
-    },
-    {
-      "calendarId": 3,
-      "calendarName": "Twice Per Month",
-      "calendarImage": "R.drawable.calendar_bimonthly"
-    },
-    {
-      "calendarId": 4,
-      "calendarName": "Monthly Tasks",
-      "calendarImage": "R.drawable.calendar_monthly"
-    }
-  ]
-}
+	  "tasks": 
+	  [
+	    { "taskId" : 1,
+	      "viewType" : 2,
+	      "taskName" : "Temperature",
+	      "numValue" : "",
+	      "checked" : false,
+	      "timeStampValue" : ""
+	    },
+	    {
+	      "taskId" : 2,
+	      "viewType" : 3,
+	      "taskName" : "Humidity",
+	      "numValue" : "",
+	      "checked" : false,
+	      "timeStampValue" : ""
+	    },
+	    {
+	      "taskId" : 3,
+	      "viewType" : 1,
+	      "taskName" : "Check Water",
+	      "numValue" : "",
+	      "checked" : false,
+	      "timeStampValue" : ""
+	    },
+	    {
+	      "taskId" : 4,
+	      "viewType" : 1,
+	      "taskName" : "Empty Trash",
+	      "numValue" : "",
+	      "checked" : false,
+	      "timeStampValue" : ""
+	    },
+	        {
+	          "taskId" : 5,
+	      "viewType" : 1,
+	      "taskName" : "Change Insert",
+	      "numValue" : "",
+	      "checked" : false,
+	      "timeStampValue" : ""
+	    },
+	    {
+	      "taskId" : 6,
+	      "viewType" : 1,
+	      "taskName" : "Replace Food",
+	      "numValue" : "",
+	      "checked" : false,
+	      "timeStampValue" : ""
+	    },
+	    {
+	      "taskId" : 7,
+	      "viewType" : 1,
+	      "taskName" : "Clean IVC Filter",
+	      "numValue" : "",
+	      "checked" : false,
+	      "timeStampValue" : ""
+	    },
+	        {
+	          "taskId" : 8,
+	      "viewType" : 1,
+	      "taskName" : "Check Door Jam",
+	      "numValue" : "",
+	      "checked" : true,
+	      "timeStampValue" : "2023-03-10\n10:02 AM\ntest"
+	    },
+	        {
+	          "taskId" : 9,
+	      "viewType" : 1,
+	      "taskName" : "Sweep Room",
+	      "numValue" : "",
+	      "checked" : true,
+	      "timeStampValue" : "2023-03-10\n10:02 AM\ntest2"
+	    },
+	    {
+	      "taskId" : 10,
+	      "viewType" : 1,
+	      "taskName" : "Mop Room",
+	      "numValue" : "",
+	      "checked" : true,
+	      "timeStampValue" : "2023-03-10\n10:02 AM\ntest3"
+	    },
+	    {
+	      "taskId" : 11,
+	      "viewType" : 1,
+	      "taskName" : "Check lights",
+	      "numValue" : "",
+	      "checked" : true,
+	      "timeStampValue" : "2023-03-10\n10:02 AM\ntest4"
+	    }
+	  ]
+	}
+
 
 
 
