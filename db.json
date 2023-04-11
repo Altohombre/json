@@ -2,19 +2,19 @@
   "menuItems": [
     {
       "calendarId": 1,
-      "calendarName": "Daily Tasks",
+      "calendarName": "Daily Tasks"
     },
     {
       "calendarId": 2,
-      "calendarName": "Weekly Tasks",
+      "calendarName": "Weekly Tasks"
     },
     {
       "calendarId": 3,
-      "calendarName": "Twice Per Month",
+      "calendarName": "Twice Per Month"
     },
     {
       "calendarId": 4,
-      "calendarName": "Monthly Tasks",
+      "calendarName": "Monthly Tasks"
     }
   ]
 }
