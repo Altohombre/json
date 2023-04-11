@@ -3,22 +3,18 @@
     {
       "calendarId": 1,
       "calendarName": "Daily Tasks",
-      "calendarImage": "R.drawable.calendar_daily"
     },
     {
       "calendarId": 2,
       "calendarName": "Weekly Tasks",
-      "calendarImage": "R.drawable.calendar_weekly"
     },
     {
       "calendarId": 3,
       "calendarName": "Twice Per Month",
-      "calendarImage": "R.drawable.calendar_bimonthly"
     },
     {
       "calendarId": 4,
       "calendarName": "Monthly Tasks",
-      "calendarImage": "R.drawable.calendar_monthly"
     }
   ]
 }
